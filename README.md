@@ -1,2 +1,2 @@
 # final-project
-Final project repo for earth analytics course
+Final project repo for CU Earth Analytics Data Science Bootcamp
